@@ -34,6 +34,7 @@
 <a href="https://www.microsoft.com/en/microsoft-365/excel" target="_blank"><img src="https://img.icons8.com/color/96/microsoft-excel-2019.png" width="48"/></a>
 </p>
 
+
 <p>
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Badal214112-gif&layout=compact&theme=dark&langs_count=10&hide_border=true" />
 <img align="right" width="47%" src="https://github-readme-stats.vercel.app/api?username=Badal214112-gif&show_icons=true&theme=dark&hide_border=true" />
