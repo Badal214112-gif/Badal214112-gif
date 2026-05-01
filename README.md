@@ -35,11 +35,11 @@
 </p>
 
 
-<p>
+<!-- <p>
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Badal214112-gif&layout=compact&theme=dark&langs_count=10&hide_border=true" />
 <img align="right" width="47%" src="https://github-readme-stats.vercel.app/api?username=Badal214112-gif&show_icons=true&theme=dark&hide_border=true" />
 </p>
 
 <p>
 <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=Badal214112-gif&theme=dark&hide_border=true" />
-</p>
+</p> -->
