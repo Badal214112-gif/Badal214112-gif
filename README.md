@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning **Web Scraping, A/B Testing**
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/Badal214112-gif?tab=repositories)
 - 📫 How to reach me **badalkukreja2002@gmail.com**
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1oeXJNElhMxAMihyfVB2ZLnJ8k9WnAnUV/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1lmWN0SwRr1fx9M0FdsEs2BSkxRlwZFcu/view?usp=sharing)
 - ⚡ Fun fact **I think I am the best!**
 
 <h3 align="left">Connect with me:</h3>
