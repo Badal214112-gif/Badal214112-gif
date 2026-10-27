@@ -5,7 +5,7 @@
 <img src="https://komarev.com/ghpvc/?username=badal214112-gif&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
-- 🌱 I’m currently learning **Web Scraping, A/B Testing**
+- 🌱 I’m currently learning **AI & Analytics Automation**
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/Badal214112-gif?tab=repositories)
 - 📫 How to reach me **badalkukreja2002@gmail.com**
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1lmWN0SwRr1fx9M0FdsEs2BSkxRlwZFcu/view?usp=sharing)
